@@ -105,3 +105,6 @@ dist
 
 # builds
 release-builds
+
+# MacOS
+.DS_Store
